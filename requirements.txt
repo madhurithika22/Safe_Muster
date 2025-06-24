@@ -8,3 +8,4 @@ tensorflow
 geopy
 requests
 gunicorn
+mediapipe==0.10.9
