@@ -2,7 +2,6 @@ flask
 opencv-python-headless
 numpy
 ultralytics
-mediapipe
 requests
 twilio
 tensorflow
